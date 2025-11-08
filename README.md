@@ -36,10 +36,10 @@ Analysis: Identify time-series trends in admission type and suggest ways to impr
 6.Created powerpoint presentation to present the analysis and turn them into actionable insights.
 
 # Dashboard
-Screenshort of the dashboard: <a href="https://github.com/anmolsaxena177/US_HOSPITAL_DATA_ANALYSIS/blob/main/Dashboard%20screenshot.png">Dashboardt</a>
+Screenshort of the dashboard: <a href="https://github.com/anmolsaxena177/US_HOSPITAL_DATA_ANALYSIS/blob/main/Dashboard%20screenshot.png">Dashboard</a>
 
 # Excel File
-Excel file
+<a href="">Excel file</a>
 
 # PPT
 Presentation
