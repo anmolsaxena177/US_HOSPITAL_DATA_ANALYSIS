@@ -28,17 +28,17 @@ Analysis: Identify time-series trends in admission type and suggest ways to impr
 
 
 # Process
-1.Performed data cleaning activities to ensure that the data is consistent and reliable.
+1. Performed data cleaning activities to ensure that the data is consistent and reliable.
 
-2.Worked on hypothesis to formulate the direction on analysis.
+2. Worked on hypothesis to formulate the direction on analysis.
 
-3.Performed EDA to understand the trend.
+3. Performed EDA to understand the trend.
 
-4.On the basis of hypothesis and EDA, dived deep to bring insights from the data using pivot tables and charts.
+4. On the basis of hypothesis and EDA, dived deep to bring insights from the data using pivot tables and charts.
 
-5.Developed an interactive dashboard in Excel to show the results.
+5. Developed an interactive dashboard in Excel to show the results.
 
-6.Created powerpoint presentation to present the analysis and turn them into actionable insights.
+6. Created powerpoint presentation to present the analysis and turn them into actionable insights.
 
 # Dashboard
 Screenshort of the dashboard: <a href="https://github.com/anmolsaxena177/US_HOSPITAL_DATA_ANALYSIS/blob/main/Dashboard%20screenshot.png">Dashboard</a>
