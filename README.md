@@ -39,10 +39,10 @@ Analysis: Identify time-series trends in admission type and suggest ways to impr
 Screenshort of the dashboard: <a href="https://github.com/anmolsaxena177/US_HOSPITAL_DATA_ANALYSIS/blob/main/Dashboard%20screenshot.png">Dashboard</a>
 
 # Excel File
-<a href="">Excel file</a>
+<a href="https://github.com/anmolsaxena177/US_HOSPITAL_DATA_ANALYSIS/blob/main/Case%20Study%20Final.xlsx">Excel file</a>
 
 # PPT
-Presentation
+<a href="">Presentation</a>
 
 # Results:
 Hypertension is the most prevalent condition (22% of total cases), with a higher risk for males (61%). Obesity and diabetes are more common in females, indicating potential lifestyle or metabolic factors.
