@@ -23,26 +23,28 @@ Objective: Identify ways in which hospital can better manage its resources
 
 Analysis: Identify time-series trends in admission type and suggest ways to improve the workload utilization of the hospital.
 
-Dataset used
-Dataset
+# Dataset used
+<a href="https://github.com/anmolsaxena177/CPI-INFLATION/blob/main/Raw%20Inflation%20data.csv">Dataset</a>
 
-Process
-Performed data cleaning activities to ensure that the data is consistent and reliable.
-Worked on hypothesis to formulate the direction on analysis.
-Performed EDA to understand the trend.
-On the basis of hypothesis and EDA, dived deep to bring insights from the data using pivot tables and charts.
-Developed an interactive dashboard in Excel to show the results.
-Created powerpoint presentation to present the analysis and turn them into actionable insights.
-Dashboard
-Screenshort of the dashboard: Dashboard
 
-Excel File
+# Process
+1.Performed data cleaning activities to ensure that the data is consistent and reliable.
+2.Worked on hypothesis to formulate the direction on analysis.
+3.Performed EDA to understand the trend.
+4.On the basis of hypothesis and EDA, dived deep to bring insights from the data using pivot tables and charts.
+5.Developed an interactive dashboard in Excel to show the results.
+6.Created powerpoint presentation to present the analysis and turn them into actionable insights.
+
+# Dashboard
+Screenshort of the dashboard: <a href="">Dashboardt</a>
+
+# Excel File
 Excel file
 
-PPT
+# PPT
 Presentation
 
-Results:
+# Results:
 Hypertension is the most prevalent condition (22% of total cases), with a higher risk for males (61%). Obesity and diabetes are more common in females, indicating potential lifestyle or metabolic factors.
 Blood group distribution shows no major disparities, but certain conditions (e.g., obesity in AB-) show variations.
 Emergency admissions drive the highest revenue ($87M) and cost per case ($24,279), while urgent admissions have the lowest average billing.
