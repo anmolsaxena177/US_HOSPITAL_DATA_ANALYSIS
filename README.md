@@ -1,2 +1,50 @@
 # US_HOSPITAL_DATA_ANALYSIS
-The US healthcare department has shared the hospital data for 100 hospitals which includes data like patient information, their admission information and the insurance information. Our task is to analyze the data and present some meaningful and actionable insights from it.
+US-Healthcare-Data-Analysis
+The US healthcare department has shared the hospital data for 100 hospitals which includes data like patient information, their admission information and the insurance information. The top executives from the department have a few questions on the data and would like you to analyse and present your findings to them. The analysis should derive meaning actionable insights and the presentation should be clear, complete and concise.
+
+Problem Statement
+Analyzing the Impact of Demographics and Admission Types on Healthcare Costs and Outcomes
+
+##a.Demographic Analysis of Medical Conditions
+
+Objective: Identify the most prevalent medical conditions within different demographic groups
+
+Analysis: Analyze the frequency of each medical condition across different patient demographics. Bucket the demographics to make it presentable to high level management. Ensure not to create too many bucket and make the bucket mutually exclusive and collectively exhaustive.
+
+##b.Patient Price Optimization
+
+Objective: Identify trends in the data and recommend ways for patients to reduce their cost
+
+Analysis: Calculate the average billing amount for different metrics. Determine if certain metrics consistently result in higher or lower healthcare costs. Try to relate it back to findings from the demographic analysis
+
+##c.Hospital Resource Management
+
+Objective: Identify ways in which hospital can better manage its resources
+
+Analysis: Identify time-series trends in admission type and suggest ways to improve the workload utilization of the hospital.
+
+Dataset used
+Dataset
+
+Process
+Performed data cleaning activities to ensure that the data is consistent and reliable.
+Worked on hypothesis to formulate the direction on analysis.
+Performed EDA to understand the trend.
+On the basis of hypothesis and EDA, dived deep to bring insights from the data using pivot tables and charts.
+Developed an interactive dashboard in Excel to show the results.
+Created powerpoint presentation to present the analysis and turn them into actionable insights.
+Dashboard
+Screenshort of the dashboard: Dashboard
+
+Excel File
+Excel file
+
+PPT
+Presentation
+
+Results:
+Hypertension is the most prevalent condition (22% of total cases), with a higher risk for males (61%). Obesity and diabetes are more common in females, indicating potential lifestyle or metabolic factors.
+Blood group distribution shows no major disparities, but certain conditions (e.g., obesity in AB-) show variations.
+Emergency admissions drive the highest revenue ($87M) and cost per case ($24,279), while urgent admissions have the lowest average billing.
+Cigna and Aetna lead in billing per admission, while Medicare and UnitedHealthcare have lower average costs. Differences suggest variations in coverage policies and patient demographics.
+Overall, the data highlights key trends in disease prevalence, gender distribution, and healthcare costs, offering insights for targeted healthcare strategies and resource allocation.
